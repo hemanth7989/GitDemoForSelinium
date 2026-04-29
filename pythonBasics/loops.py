@@ -5,6 +5,7 @@ a = 4
 if a > 2:
     print(" Condition matches")
     print("second line")
+    print("git git")
 else:
     print("condition do not match")
 
@@ -13,7 +14,7 @@ print("if else condition code is completed")
 
 #for loop
 
-obj= [2, 3, 5, 7, 9]
+obj= [2, 3, 5, 7, 9,11]
 for i in obj:
     print(i*2)
 
@@ -29,6 +30,7 @@ print("*******************************")
 for k in range(1, 10, 5):
     print(k)
     print("**************SKIPPING FIRST INDEX*****************")
+    print("**************GIT INDEX*****************")
 for m in range(10):
     print(m)
 

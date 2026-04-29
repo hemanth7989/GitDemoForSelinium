@@ -1,6 +1,7 @@
 str = "RahulShettyAcademy.com"
 str1 = "Consulting firm"
 str3 = "RahulShetty"
+Str3 = "Just writing for git"
 
 print(str[1])   #a
 

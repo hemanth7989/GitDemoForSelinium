@@ -14,6 +14,7 @@ class Calculator:
 
     def getData(self):
         print("I am now executing as method in class")
+        print("I am now executing as git method in class")
 
     def Summation(self):
         return self.firstNumber + self.secondNumber + Calculator.num
